@@ -78,28 +78,29 @@ You can sort by various tags and purposes.
 ## Hugo Basic Usage
 
 ## Hugo Directory Structure
-- archetypes
-- assets
-- config.toml
+- config
 - content
 - data
-- layouts
 - static
 - themes
 
 ## Hugo Serve / Build
 Hugo allows for quick building and prototyping using hugo serve.
 
-## Hugo Drafts
-Drafts allow for rendering draft pages before publishing.
-
-Use the markdown settings Draft: true
-
 
 ## Github Pages Setup
-- TBD
 
-## Additional Resources
-- TBD
+## Create the project:
+You first need to create a project with the format: USERNAME.github.io
+.image images/github-new-repo.png
 
-## Questions
+## Add remote
+Next follow the instructions for pushing an existing repository
+.image images/github-push-existing.png
+
+## Set up github pages
+In the settings, set serving to /docs
+.image images/github-set-serving.png
+
+
+## Any questions?
