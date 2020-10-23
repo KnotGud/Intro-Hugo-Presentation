@@ -1,0 +1,105 @@
+# Basic Introduction to hugo
+14 Oct 2020
+
+Daniel Lee
+daniel@devshell.net
+
+## Topics
+- Intro to GoHugo
+- Setting up your environment
+- Hugo Prebuilt Themes
+- Hugo Basic Usage
+- Github Pages Setup
+
+## Requirements
+- Github Account
+- Git (cli or ui)
+
+
+## Intro to GoHugo
+
+## What is GoHugo
+Hugo is a fast and modern static website generator written in go.
+
+## Who uses GoHugo
+
+## Hugo Showcase Template
+.image images/hugo-showcase-template.png
+.caption [[https://gohugo.io/showcase/template/][Website Link]]
+
+## 1Password Support
+.image images/1password-support.png
+.caption [[https://gohugo.io/showcase/1password-support/][Website Link]]
+
+## Let's Encrypt
+.image images/lets-encrypt.png
+.caption [[https://gohugo.io/showcase/letsencrypt/][Website Link]]
+
+## StackImpact
+.image images/stackimpact.png
+.caption [[https://gohugo.io/showcase/stackimpact/][Website Link]]
+
+## Why is GoHugo used
+
+## Hugo is designed to
+- Enable fast development of websites
+- Provide optimal experience for website users
+- Provide a good experience for website authors
+
+
+## Setting up your environment
+
+## Download a precompiled executable
+Download the tool for your environment.
+: Download the right tool for your environment, if youre using linux, download the linux amd64, if youre using windows, download the exe file
+
+We are using v0.76.5
+
+.link https://github.com/gohugoio/hugo/releases/tag/v0.76.5 Link
+
+## Download the starter pack
+Quickstart git project
+: We have setup a quickstart project on github to skip over some simple steps.
+: The steps to get from nothing to the quickstart are in the readme of the project.
+
+
+## GoHugo Prebuilt Themes
+
+## Open Source / Paid prebuilt themes
+People have created GoHugo themes and open-sourced their code.
+
+Most are listed in the themes section of the hugo website.
+
+You can sort by various tags and purposes.
+
+.link https://themes.gohugo.io/ Link
+
+
+## Hugo Basic Usage
+
+## Hugo Directory Structure
+- archetypes
+- assets
+- config.toml
+- content
+- data
+- layouts
+- static
+- themes
+
+## Hugo Serve / Build
+Hugo allows for quick building and prototyping using hugo serve.
+
+## Hugo Drafts
+Drafts allow for rendering draft pages before publishing.
+
+Use the markdown settings Draft: true
+
+
+## Github Pages Setup
+- TBD
+
+## Additional Resources
+- TBD
+
+## Questions
